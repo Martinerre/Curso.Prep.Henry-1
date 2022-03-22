@@ -1,0 +1,49 @@
+
+h1 {
+    color: #303952;
+}
+img {
+    width: 400px;
+}
+.thirdDiv {
+    width: 500px;
+    height: 150px;
+    background: #f7d794;
+    padding: 50px;
+    border: solid 2px #778beb;
+    text-align: center;
+}
+#spanId {
+    font-size: 18px;
+    margin: 50px;
+    padding: 50px;
+    text-align: center;
+}
+
+address {
+    text-align: center;
+}
+body {
+    height: 400px;
+    background-image: url("https://previews.123rf.com/images/krekdm/krekdm1610/krekdm161000233/67736852-hand-drawn-vector-seamless-fast-food-pattern-sketch-doodle-food-elements-can-be-used-for-wallpaper-w.jpg");
+    background-size: contain;
+    background-repeat:no-repeat;
+    background-position:left;
+    background-attachment: fixed;
+}
+ul {
+    font-size: 20px;
+    width: 565px;
+    height: 30px;
+    background: #f7d794;
+    border: 1px solid black;
+}
+.flexContainer img {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.flexContainer div {
+    align-content: center;
+    text-align: center;
+}
